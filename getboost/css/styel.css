@@ -1,0 +1,74 @@
+<style>
+  .red {
+    background-color: cornflowerblue;
+
+  }
+
+  .red .col-3 {
+    color: white;
+  }
+
+  .center {
+    text-align: center;
+  }
+
+  .row {
+    /*margin: 20px auto;*/
+  }
+
+  .one .col-3 {
+    padding: 20px 0px;
+  }
+
+  .school {
+    background-color: rgb(249, 246, 245);
+  }
+
+  .of {
+    text-align: center;
+    padding: 50px;
+  }
+
+  .school .col-4 img {
+    width: 300px;
+    height: 225px;
+    border: solid lightslategray 1px;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 20px;
+
+  }
+
+  
+  .school .col-4 h6,
+  p {
+    text-align: center;
+    margin: 10px;
+
+  }
+
+  .row {
+    padding: 50px;
+  }
+  .row a {
+    cursor: pointer;
+    color:  dimgrey;
+    
+  }
+
+  .link {
+    background-color: rgb(29, 28, 28);
+    height: 350px;
+
+  }
+
+  .link p {
+    color: dimgrey;
+
+  }
+
+  .link h6 {
+    color: aliceblue;
+    text-align: center;
+  }
+</style>
